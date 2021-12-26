@@ -1,0 +1,15 @@
+{
+	"ducoDNSIPs": {
+		"ip": "",
+		"port": ""
+	},
+	"ducoPool": [{
+			"ip": "",
+			"port": ""
+		},
+		{
+			"ip": "",
+			"port": ""
+		}
+	]
+}
