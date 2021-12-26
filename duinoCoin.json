@@ -1,7 +1,6 @@
 {
 	"ducoDNSIPs": {
-		"ip": "",
-		"port": ""
+		"urlDNS": "https://51.15.127.80:443/getPool"
 	},
 	"ducoPool": [{
 			"ip": "",
