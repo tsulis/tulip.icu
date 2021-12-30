@@ -1,5 +1,6 @@
 {
 	"ducoDNSIP": "https://51.15.127.80:443/getPool",
+	"ducoDNS": "https://server.duinocoin.com/getPool",
 	"pool": [{
 		"ip": "192.168.0.1",
 		"port": 9999
